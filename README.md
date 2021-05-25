@@ -6,6 +6,8 @@
 
 ## 🔭 I’m currently working on Customer Transaction Prediction project for my MSc thesis.
 
+## How to reach me:
+
 <a href="https://www.linkedin.com/in/keswani-rohitkumar/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/>
   
 <!--
