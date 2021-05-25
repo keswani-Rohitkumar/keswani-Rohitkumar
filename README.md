@@ -1,5 +1,4 @@
-### Hi Everyone 👋
-### Welcome to Rohit Keswani's Github Profile
+### Hi Everyone 👋 Welcome to Rohitkumar Keswani's Github Profile
 
 ## I am a Graduate Data Scientist Looking for oppurtunities to contribute in the field of AI and Data Science.
 
