@@ -2,7 +2,7 @@
 
 ## I am a Graduate Data Scientist Looking for oppurtunities to contribute in the field of AI and Data Science.
 
-## On this page I have kept all my personal projects and my MSc projects.
+## On this page I have kept all my personal and MSc projects.
 
 ## 🔭 I’m currently working on Customer Transaction Prediction project for my MSc thesis.
 
